@@ -1,2 +1,3 @@
 Welcome to git practice
-GIT helps with soucre code management
+GIT helps with source code management
+I enjoy using Git
